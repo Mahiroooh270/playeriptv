@@ -1,0 +1,549 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",A&E
+http://dmnet.tvpn.eu:80/katia/123456/128
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
+http://dmnet.tvpn.eu:80/katia/123456/129
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",AXN
+http://dmnet.tvpn.eu:80/katia/123456/130
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",Canal Brasil
+http://dmnet.tvpn.eu:80/katia/123456/261
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",Canal Sony
+http://dmnet.tvpn.eu:80/katia/123456/131
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Brasil TV (TV Cultura)
+http://dmnet.tvpn.eu:80/katia/123456/387
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CineCanal
+http://dmnet.tvpn.eu:80/katia/123456/169
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",Cinemax
+http://dmnet.tvpn.eu:80/katia/123456/132
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX
+http://dmnet.tvpn.eu:80/katia/123456/134
+#EXTINF:0 tvg-id="ext" group-title="Channels",Like
+http://dmnet.tvpn.eu:80/katia/123456/176
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MegaPix
+http://dmnet.tvpn.eu:80/katia/123456/144
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount
+http://dmnet.tvpn.eu:80/katia/123456/145
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
+http://dmnet.tvpn.eu:80/katia/123456/146
+#EXTINF:0 tvg-id="otr" group-title="Channels",Star Channel
+http://dmnet.tvpn.eu:80/katia/123456/228
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",Studio Universal
+http://dmnet.tvpn.eu:80/katia/123456/147
+#EXTINF:0 tvg-id="Syfy.br" group-title="Channels",SyFy
+http://dmnet.tvpn.eu:80/katia/123456/148
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS
+http://dmnet.tvpn.eu:80/katia/123456/149
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",TCM
+http://dmnet.tvpn.eu:80/katia/123456/177
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT
+http://dmnet.tvpn.eu:80/katia/123456/157
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",TNT Series
+http://dmnet.tvpn.eu:80/katia/123456/158
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal TV
+http://dmnet.tvpn.eu:80/katia/123456/159
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner Channel
+http://dmnet.tvpn.eu:80/katia/123456/160
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (01)
+http://dmnet.tvpn.eu:80/katia/123456/20
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (02)
+http://dmnet.tvpn.eu:80/katia/123456/21
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (03)
+http://dmnet.tvpn.eu:80/katia/123456/22
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (04)
+http://dmnet.tvpn.eu:80/katia/123456/23
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (05)
+http://dmnet.tvpn.eu:80/katia/123456/24
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (06)
+http://dmnet.tvpn.eu:80/katia/123456/25
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (07)
+http://dmnet.tvpn.eu:80/katia/123456/26
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (08)
+http://dmnet.tvpn.eu:80/katia/123456/27
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (09)
+http://dmnet.tvpn.eu:80/katia/123456/28
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema (10)
+http://dmnet.tvpn.eu:80/katia/123456/29
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",Band News
+http://dmnet.tvpn.eu:80/katia/123456/265
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",CNN Brasil
+http://dmnet.tvpn.eu:80/katia/123456/126
+#EXTINF:0 tvg-id="CNNEspanhol.br" group-title="Channels",CNN Espanhol
+http://dmnet.tvpn.eu:80/katia/123456/232
+#EXTINF:0 tvg-id="Cnninternacional.br" group-title="Channels",CNN Internacional
+http://dmnet.tvpn.eu:80/katia/123456/163
+#EXTINF:0 tvg-id="FoxNews.br" group-title="Channels",Fox News
+http://dmnet.tvpn.eu:80/katia/123456/164
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",Globo News
+http://dmnet.tvpn.eu:80/katia/123456/229
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News
+http://dmnet.tvpn.eu:80/katia/123456/258
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Jovem Pan News
+http://dmnet.tvpn.eu:80/katia/123456/233
+#EXTINF:0 tvg-id="BabyTV.br" group-title="Channels",Baby TV
+http://dmnet.tvpn.eu:80/katia/123456/83
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Channels",Boomerang
+http://dmnet.tvpn.eu:80/katia/123456/84
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Channels",Cartoon Network
+http://dmnet.tvpn.eu:80/katia/123456/85
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",Discovery Kids
+http://dmnet.tvpn.eu:80/katia/123456/86
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Channels",Disney Channel
+http://dmnet.tvpn.eu:80/katia/123456/87
+#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",Gloob
+http://dmnet.tvpn.eu:80/katia/123456/88
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gloobinho
+http://dmnet.tvpn.eu:80/katia/123456/89
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",Nick Jr
+http://dmnet.tvpn.eu:80/katia/123456/91
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",Nickelodeon
+http://dmnet.tvpn.eu:80/katia/123456/90
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Channels",Tooncast
+http://dmnet.tvpn.eu:80/katia/123456/92
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Channels",TV Ra Tim Bum
+http://dmnet.tvpn.eu:80/katia/123456/93
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZooMoo Kids
+http://dmnet.tvpn.eu:80/katia/123456/94
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action
+http://dmnet.tvpn.eu:80/katia/123456/150
+#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",Telecine Cult
+http://dmnet.tvpn.eu:80/katia/123456/151
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",Telecine Fun
+http://dmnet.tvpn.eu:80/katia/123456/152
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca
+http://dmnet.tvpn.eu:80/katia/123456/153
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium
+http://dmnet.tvpn.eu:80/katia/123456/154
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",Telecine Touch
+http://dmnet.tvpn.eu:80/katia/123456/155
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO
+http://dmnet.tvpn.eu:80/katia/123456/135
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO (02)
+http://dmnet.tvpn.eu:80/katia/123456/136
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
+http://dmnet.tvpn.eu:80/katia/123456/137
+#EXTINF:0 tvg-id="Max.br" group-title="Channels",HBO Mundi
+http://dmnet.tvpn.eu:80/katia/123456/138
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus
+http://dmnet.tvpn.eu:80/katia/123456/139
+#EXTINF:0 tvg-id="Maxup.br" group-title="Channels",HBO Pop
+http://dmnet.tvpn.eu:80/katia/123456/140
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",HBO Signature
+http://dmnet.tvpn.eu:80/katia/123456/141
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO Xtreme
+http://dmnet.tvpn.eu:80/katia/123456/142
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",Band Sports
+http://dmnet.tvpn.eu:80/katia/123456/31
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate
+http://dmnet.tvpn.eu:80/katia/123456/32
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN
+http://dmnet.tvpn.eu:80/katia/123456/35
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN (02)
+http://dmnet.tvpn.eu:80/katia/123456/33
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN (03)
+http://dmnet.tvpn.eu:80/katia/123456/34
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN (04)
+http://dmnet.tvpn.eu:80/katia/123456/37
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN Extra
+http://dmnet.tvpn.eu:80/katia/123456/36
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports (02)
+http://dmnet.tvpn.eu:80/katia/123456/38
+#EXTINF:0 tvg-id="ext" group-title="Channels",SportTV
+http://dmnet.tvpn.eu:80/katia/123456/46
+#EXTINF:0 tvg-id="ext" group-title="Channels",SportTV (02)
+http://dmnet.tvpn.eu:80/katia/123456/47
+#EXTINF:0 tvg-id="ext" group-title="Channels",SportTV (03)
+http://dmnet.tvpn.eu:80/katia/123456/48
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes
+http://dmnet.tvpn.eu:80/katia/123456/39
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere (02)
+http://dmnet.tvpn.eu:80/katia/123456/40
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere (03)
+http://dmnet.tvpn.eu:80/katia/123456/41
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere (04)
+http://dmnet.tvpn.eu:80/katia/123456/42
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere (05)
+http://dmnet.tvpn.eu:80/katia/123456/43
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere (06)
+http://dmnet.tvpn.eu:80/katia/123456/44
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere (07)
+http://dmnet.tvpn.eu:80/katia/123456/45
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports (01)
+http://dmnet.tvpn.eu:80/katia/123456/57
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports (02)
+http://dmnet.tvpn.eu:80/katia/123456/58
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports (03)
+http://dmnet.tvpn.eu:80/katia/123456/59
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports (04)
+http://dmnet.tvpn.eu:80/katia/123456/60
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports (05)
+http://dmnet.tvpn.eu:80/katia/123456/171
+#EXTINF:0 tvg-id="ext" group-title="Channels",Conmebol (01)
+http://dmnet.tvpn.eu:80/katia/123456/49
+#EXTINF:0 tvg-id="ext" group-title="Channels",Conmebol (02)
+http://dmnet.tvpn.eu:80/katia/123456/50
+#EXTINF:0 tvg-id="ext" group-title="Channels",Conmebol (03)
+http://dmnet.tvpn.eu:80/katia/123456/51
+#EXTINF:0 tvg-id="ext" group-title="Channels",Conmebol (04)
+http://dmnet.tvpn.eu:80/katia/123456/52
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star+
+http://dmnet.tvpn.eu:80/katia/123456/178
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star+ (02)
+http://dmnet.tvpn.eu:80/katia/123456/179
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star+ (03)
+http://dmnet.tvpn.eu:80/katia/123456/237
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star+ (04)
+http://dmnet.tvpn.eu:80/katia/123456/236
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star+ (05)
+http://dmnet.tvpn.eu:80/katia/123456/180
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star+ (06)
+http://dmnet.tvpn.eu:80/katia/123456/181
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star+ (07)
+http://dmnet.tvpn.eu:80/katia/123456/182
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN (01)
+http://dmnet.tvpn.eu:80/katia/123456/259
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN (02)
+http://dmnet.tvpn.eu:80/katia/123456/260
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN (03)
+http://dmnet.tvpn.eu:80/katia/123456/175
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN (04)
+http://dmnet.tvpn.eu:80/katia/123456/174
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN (05)
+http://dmnet.tvpn.eu:80/katia/123456/173
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN (06)
+http://dmnet.tvpn.eu:80/katia/123456/172
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN (07)
+http://dmnet.tvpn.eu:80/katia/123456/249
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Max (01)
+http://dmnet.tvpn.eu:80/katia/123456/251
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Max (02)
+http://dmnet.tvpn.eu:80/katia/123456/252
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Max (03)
+http://dmnet.tvpn.eu:80/katia/123456/253
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amazon Prime Video (01)
+http://dmnet.tvpn.eu:80/katia/123456/230
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amazon Prime Video (02)
+http://dmnet.tvpn.eu:80/katia/123456/231
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa do Nordeste (01)
+http://dmnet.tvpn.eu:80/katia/123456/53
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa do Nordeste (02)
+http://dmnet.tvpn.eu:80/katia/123456/54
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa do Nordeste (03)
+http://dmnet.tvpn.eu:80/katia/123456/55
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa do Nordeste (04)
+http://dmnet.tvpn.eu:80/katia/123456/56
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport (01)
+http://dmnet.tvpn.eu:80/katia/123456/223
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport (02)
+http://dmnet.tvpn.eu:80/katia/123456/224
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",Discovery Channel
+http://dmnet.tvpn.eu:80/katia/123456/101
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery H & Health
+http://dmnet.tvpn.eu:80/katia/123456/102
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Channels",Discovery ID
+http://dmnet.tvpn.eu:80/katia/123456/103
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Channels",Discovery Science
+http://dmnet.tvpn.eu:80/katia/123456/104
+#EXTINF:0 tvg-id="Discoverytheaterhd.br" group-title="Channels",Discovery Theater
+http://dmnet.tvpn.eu:80/katia/123456/105
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",Discovery Turbo
+http://dmnet.tvpn.eu:80/katia/123456/106
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="Channels",Discovery World
+http://dmnet.tvpn.eu:80/katia/123456/107
+#EXTINF:0 tvg-id="HGTV.us" group-title="Channels",HGTV
+http://dmnet.tvpn.eu:80/katia/123456/112
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",Animal Planet
+http://dmnet.tvpn.eu:80/katia/123456/96
+#EXTINF:0 tvg-id="Arte1.br" group-title="Channels",Arte 1
+http://dmnet.tvpn.eu:80/katia/123456/97
+#EXTINF:0 tvg-id="ext" group-title="Channels",Curta!
+http://dmnet.tvpn.eu:80/katia/123456/99
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",H2
+http://dmnet.tvpn.eu:80/katia/123456/114
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",History Channel
+http://dmnet.tvpn.eu:80/katia/123456/113
+#EXTINF:0 tvg-id="LoveNature.eu" group-title="Channels",Love Nature
+http://dmnet.tvpn.eu:80/katia/123456/115
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",National Geographic
+http://dmnet.tvpn.eu:80/katia/123456/119
+#EXTINF:0 tvg-id="Bis.br" group-title="Channels",Bis
+http://dmnet.tvpn.eu:80/katia/123456/98
+#EXTINF:0 tvg-id="ext" group-title="Channels",Chef TV
+http://dmnet.tvpn.eu:80/katia/123456/161
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Channels",Comedy Central
+http://dmnet.tvpn.eu:80/katia/123456/100
+#EXTINF:0 tvg-id="DogTV354.us" group-title="Channels",Dog TV
+http://dmnet.tvpn.eu:80/katia/123456/168
+#EXTINF:0 tvg-id="E.br" group-title="Channels",E!
+http://dmnet.tvpn.eu:80/katia/123456/108
+#EXTINF:0 tvg-id="FashionTV.nws" group-title="Channels",Fashion TV
+http://dmnet.tvpn.eu:80/katia/123456/166
+#EXTINF:0 tvg-id="FilmArts.br" group-title="Channels",Film Arts
+http://dmnet.tvpn.eu:80/katia/123456/109
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",FishTV
+http://dmnet.tvpn.eu:80/katia/123456/226
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Channels",Food Network
+http://dmnet.tvpn.eu:80/katia/123456/110
+#EXTINF:0 tvg-id="Gnt.br" group-title="Channels",GNT
+http://dmnet.tvpn.eu:80/katia/123456/111
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",LifeTime
+http://dmnet.tvpn.eu:80/katia/123456/143
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mais Globosat
+http://dmnet.tvpn.eu:80/katia/123456/262
+#EXTINF:0 tvg-id="Mtv.br" group-title="Channels",MTV
+http://dmnet.tvpn.eu:80/katia/123456/116
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",MTV Live
+http://dmnet.tvpn.eu:80/katia/123456/117
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",Multishow
+http://dmnet.tvpn.eu:80/katia/123456/118
+#EXTINF:0 tvg-id="mbu" group-title="Channels",Music Box
+http://dmnet.tvpn.eu:80/katia/123456/227
+#EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF
+http://dmnet.tvpn.eu:80/katia/123456/121
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime Box Brazil
+http://dmnet.tvpn.eu:80/katia/123456/454
+#EXTINF:0 tvg-id="ext" group-title="Channels",Smithsonian
+http://dmnet.tvpn.eu:80/katia/123456/122
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC
+http://dmnet.tvpn.eu:80/katia/123456/156
+#EXTINF:0 tvg-id="ext" group-title="Channels",TravelBox Brazil
+http://dmnet.tvpn.eu:80/katia/123456/167
+#EXTINF:0 tvg-id="Trutv.br" group-title="Channels",Tru TV
+http://dmnet.tvpn.eu:80/katia/123456/162
+#EXTINF:0 tvg-id="VH1MegaHits.br" group-title="Channels",VH1 Mega Hits
+http://dmnet.tvpn.eu:80/katia/123456/123
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva
+http://dmnet.tvpn.eu:80/katia/123456/124
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Channels",Woohoo
+http://dmnet.tvpn.eu:80/katia/123456/170
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boa Vontade TV (Boa Vontade TV)
+http://dmnet.tvpn.eu:80/katia/123456/382
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Família
+http://dmnet.tvpn.eu:80/katia/123456/392
+#EXTINF:0 tvg-id="RedeGenesis.br" group-title="Channels",Rede Genesis
+http://dmnet.tvpn.eu:80/katia/123456/393
+#EXTINF:0 tvg-id="Gospel.br" group-title="Channels",Rede Gospel
+http://dmnet.tvpn.eu:80/katia/123456/394
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Século 21
+http://dmnet.tvpn.eu:80/katia/123456/396
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Vida (Rede Vida)
+http://dmnet.tvpn.eu:80/katia/123456/369
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Aparecida (Rede)
+http://dmnet.tvpn.eu:80/katia/123456/377
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cachoeira (TV Novo Tempo)
+http://dmnet.tvpn.eu:80/katia/123456/324
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Verdade (TV Verdade)
+http://dmnet.tvpn.eu:80/katia/123456/378
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Channels",Canal do Boi
+http://dmnet.tvpn.eu:80/katia/123456/384
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Educação (TV Pública)
+http://dmnet.tvpn.eu:80/katia/123456/418
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Saúde
+http://dmnet.tvpn.eu:80/katia/123456/404
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal UM
+http://dmnet.tvpn.eu:80/katia/123456/413
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Channels",Euronews
+http://dmnet.tvpn.eu:80/katia/123456/388
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ideal TV (TV Mundial)
+http://dmnet.tvpn.eu:80/katia/123456/314
+#EXTINF:0 tvg-id="Polishop.br" group-title="Channels",Polishop TV
+http://dmnet.tvpn.eu:80/katia/123456/306
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede CNT
+http://dmnet.tvpn.eu:80/katia/123456/459
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="Channels",Rede Super
+http://dmnet.tvpn.eu:80/katia/123456/397
+#EXTINF:0 tvg-id="ext" group-title="Channels",RIT TV (Rede)
+http://dmnet.tvpn.eu:80/katia/123456/280
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Agro Canal
+http://dmnet.tvpn.eu:80/katia/123456/380
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Assembleia Legislativa (TVAL)
+http://dmnet.tvpn.eu:80/katia/123456/386
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Brasil (02)
+http://dmnet.tvpn.eu:80/katia/123456/399
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Canção Nova (Rede)
+http://dmnet.tvpn.eu:80/katia/123456/293
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="Channels",TV Cultura
+http://dmnet.tvpn.eu:80/katia/123456/289
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Câmara (TV Câmara)
+http://dmnet.tvpn.eu:80/katia/123456/320
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Evangelizar
+http://dmnet.tvpn.eu:80/katia/123456/304
+#EXTINF:0 tvg-id="Futura.br" group-title="Channels",TV Futura
+http://dmnet.tvpn.eu:80/katia/123456/294
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Pernambuco (TV Cultura/TV Brasil)
+http://dmnet.tvpn.eu:80/katia/123456/276
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Shoptime
+http://dmnet.tvpn.eu:80/katia/123456/308
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Terraviva
+http://dmnet.tvpn.eu:80/katia/123456/298
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV UP (Futura)
+http://dmnet.tvpn.eu:80/katia/123456/376
+#EXTINF:0 tvg-id="ext" group-title="Channels",Univesp TV
+http://dmnet.tvpn.eu:80/katia/123456/415
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo (Florianopolis)
+http://dmnet.tvpn.eu:80/katia/123456/428
+#EXTINF:0 tvg-id="ext" group-title="Channels",InterTV Cabugi (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/291
+#EXTINF:0 tvg-id="ext" group-title="Channels",InterTV Grande Minas (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/407
+#EXTINF:0 tvg-id="ext" group-title="Channels",RBS TV RS (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/432
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Amazonica (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/433
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Anhanguera (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/436
+#EXTINF:0 tvg-id="ext" group-title="Channels",RPC Curitiba (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/434
+#EXTINF:0 tvg-id="ext" group-title="Channels",RPC Maringá (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/372
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Asa Branca (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/423
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Bahia (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/437
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cabo Branco (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/319
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Gazeta (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/424
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Gazeta Vitória (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/425
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo (Brasília)
+http://dmnet.tvpn.eu:80/katia/123456/427
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo (Minas)
+http://dmnet.tvpn.eu:80/katia/123456/429
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo (Rio de Janeiro)
+http://dmnet.tvpn.eu:80/katia/123456/431
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo (Rio Grande do Norte)
+http://dmnet.tvpn.eu:80/katia/123456/430
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo (São Paulo)
+http://dmnet.tvpn.eu:80/katia/123456/435
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Liberal Belém (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/438
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Mirante São Luís (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/439
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Morena (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/426
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Santa Cruz (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/409
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Subaé (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/410
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sudoeste (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/411
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Verdes Mares (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/440
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBT (São Paulo)
+http://dmnet.tvpn.eu:80/katia/123456/457
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBT (Palmas)
+http://dmnet.tvpn.eu:80/katia/123456/461
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Aratu (SBT)
+http://dmnet.tvpn.eu:80/katia/123456/334
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Jangadeiro (SBT)
+http://dmnet.tvpn.eu:80/katia/123456/354
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Ponta Negra (SBT)
+http://dmnet.tvpn.eu:80/katia/123456/311
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Tambaú (SBT)
+http://dmnet.tvpn.eu:80/katia/123456/326
+#EXTINF:0 tvg-id="RecordTV.eu" group-title="Channels",Record TV
+http://dmnet.tvpn.eu:80/katia/123456/309
+#EXTINF:0 tvg-id="ext" group-title="Channels",Record TV Itapoan (Record TV)
+http://dmnet.tvpn.eu:80/katia/123456/335
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Bahia)
+http://dmnet.tvpn.eu:80/katia/123456/442
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Belém)
+http://dmnet.tvpn.eu:80/katia/123456/443
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Brasília)
+http://dmnet.tvpn.eu:80/katia/123456/444
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Goiás)
+http://dmnet.tvpn.eu:80/katia/123456/445
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Manaus)
+http://dmnet.tvpn.eu:80/katia/123456/446
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Minas)
+http://dmnet.tvpn.eu:80/katia/123456/447
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Rio de Janeiro)
+http://dmnet.tvpn.eu:80/katia/123456/449
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Rio Grande do Sul)
+http://dmnet.tvpn.eu:80/katia/123456/450
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (São Paulo)
+http://dmnet.tvpn.eu:80/katia/123456/451
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV (Palmas)
+http://dmnet.tvpn.eu:80/katia/123456/463
+#EXTINF:0 tvg-id="ext" group-title="Channels",RIC TV Maringá (Record TV)
+http://dmnet.tvpn.eu:80/katia/123456/370
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cidade (Record TV)
+http://dmnet.tvpn.eu:80/katia/123456/351
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Correio (Record TV)
+http://dmnet.tvpn.eu:80/katia/123456/321
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Tropical (Record TV)
+http://dmnet.tvpn.eu:80/katia/123456/302
+#EXTINF:0 tvg-id="ext" group-title="Channels",Band Ceará (Band)
+http://dmnet.tvpn.eu:80/katia/123456/350
+#EXTINF:0 tvg-id="ext" group-title="Channels",Band RN (Band)
+http://dmnet.tvpn.eu:80/katia/123456/292
+#EXTINF:0 tvg-id="ext" group-title="Channels",Band (Palmas)
+http://dmnet.tvpn.eu:80/katia/123456/462
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Band (São Paulo)
+http://dmnet.tvpn.eu:80/katia/123456/452
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Manaíra (Band)
+http://dmnet.tvpn.eu:80/katia/123456/322
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Tarobá Cascavel (Band)
+http://dmnet.tvpn.eu:80/katia/123456/373
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Café com Leitte
+http://dmnet.tvpn.eu:80/katia/123456/353
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Ceará
+http://dmnet.tvpn.eu:80/katia/123456/358
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Diário (TV Diário)
+http://dmnet.tvpn.eu:80/katia/123456/352
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Verde Vale
+http://dmnet.tvpn.eu:80/katia/123456/356
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Caiuá (RedeTV! Mais)
+http://dmnet.tvpn.eu:80/katia/123456/375
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Globo Nordeste (Globo)
+http://dmnet.tvpn.eu:80/katia/123456/272
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Guararapes (RecordTV)
+http://dmnet.tvpn.eu:80/katia/123456/278
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Jornal (SBT Nordeste)
+http://dmnet.tvpn.eu:80/katia/123456/266
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Nova (TV Cultura)
+http://dmnet.tvpn.eu:80/katia/123456/271
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Tribuna (Bandeirantes)
+http://dmnet.tvpn.eu:80/katia/123456/267
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Arapuan (Rede TV!)
+http://dmnet.tvpn.eu:80/katia/123456/318
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Miramar (TV Cultura)
+http://dmnet.tvpn.eu:80/katia/123456/323
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (00)
+http://dmnet.tvpn.eu:80/katia/123456/64
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (01)
+http://dmnet.tvpn.eu:80/katia/123456/65
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (02)
+http://dmnet.tvpn.eu:80/katia/123456/66
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (03)
+http://dmnet.tvpn.eu:80/katia/123456/67
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (04)
+http://dmnet.tvpn.eu:80/katia/123456/68
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (05)
+http://dmnet.tvpn.eu:80/katia/123456/69
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (06)
+http://dmnet.tvpn.eu:80/katia/123456/70
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (07)
+http://dmnet.tvpn.eu:80/katia/123456/71
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (08)
+http://dmnet.tvpn.eu:80/katia/123456/72
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (09)
+http://dmnet.tvpn.eu:80/katia/123456/73
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (10)
+http://dmnet.tvpn.eu:80/katia/123456/74
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB - Camera (11)
+http://dmnet.tvpn.eu:80/katia/123456/75
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda - Camera (01)
+http://dmnet.tvpn.eu:80/katia/123456/77
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda - Camera (02)
+http://dmnet.tvpn.eu:80/katia/123456/78
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda - Camera (03)
+http://dmnet.tvpn.eu:80/katia/123456/79
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda - Camera (04)
+http://dmnet.tvpn.eu:80/katia/123456/80
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda - Camera (05)
+http://dmnet.tvpn.eu:80/katia/123456/81
+#EXTINF:0 tvg-id="ext" group-title="Channels",Power Couple Brasil (02)
+http://dmnet.tvpn.eu:80/katia/123456/465
+#EXTINF:0 tvg-id="ext" group-title="Channels",Power Couple Brasil (01)
+http://dmnet.tvpn.eu:80/katia/123456/464
